@@ -353,7 +353,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &82997791
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1201,8 +1201,7 @@ MonoBehaviour:
   carYearInput: {fileID: 741170272}
   carMakeText: {fileID: 2104408418}
   carYearText: {fileID: 1114423899}
-  speedText: {fileID: 3633196}
-  helpText: {fileID: 627284268}
+  speedText: {fileID: 357339714}
   carPanel: {fileID: 82997790}
   carInfoPanel: {fileID: 51947197}
 --- !u!4 &577232256
@@ -2796,7 +2795,7 @@ GameObject:
   - component: {fileID: 1872147751}
   - component: {fileID: 1872147750}
   m_Layer: 5
-  m_Name: ErrorText/Tips (1)
+  m_Name: YearInfoText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
